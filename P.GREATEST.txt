@@ -1,0 +1,18 @@
+//Greatest of two numbers//
+a=int(input("enter the value of a"))
+b=int(input("enter the value of b"))
+if a>b:
+    print("a is greater")
+else:
+    print("b is greater")
+    
+ //OUTPUT-1//
+enter the value of a32
+enter the value of b29
+a is greater
+> 
+//OUTPUT-2//
+enter the value of a25
+enter the value of b30
+b is greater
+> 
